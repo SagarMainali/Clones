@@ -177,6 +177,8 @@ hr {
     color: #737373;
 }
 
+/*media queries time to make it responsive according to differnet screen sizes*/
+
 @media all and (max-width:1100px){
     .left p{
         font-size: 24px;
