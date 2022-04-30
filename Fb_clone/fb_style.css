@@ -163,8 +163,9 @@ hr {
 
 .footer {
     display: flex;
+    flex-wrap: wrap;
     width: 100%;
-    height: 100px;
+    height: 50px;
     margin: auto;
     background: #fff;
     justify-content: center;
